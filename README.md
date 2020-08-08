@@ -8,7 +8,7 @@ Here is what the responsive template website looks like on mobile:
 <br><br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/20001191/89718115-62c79400-d971-11ea-81c4-c5fbd159bbae.png" alt="mobile responsive"/>
+  <img src="https://user-images.githubusercontent.com/20001191/89718474-c3f06700-d973-11ea-8448-cc8de166a3e9.png" alt="mobile responsive"/>
 </p>
 
 <br><br>
