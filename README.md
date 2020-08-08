@@ -4,10 +4,20 @@
 
 Get started quickly with this simple and *responsive* Bootstrap template.
 
-Here is what the template website looks like:
-<br> 
+Here is what the responsive template website looks like on mobile:
+<br><br>
 
-<img width="1193" alt="Screen Shot 2020-08-08 at 11 55 53 AM" src="https://user-images.githubusercontent.com/20001191/89717895-986b7d80-d96f-11ea-872d-81f9cfdbbd55.png">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20001191/89718115-62c79400-d971-11ea-81c4-c5fbd159bbae.png" alt="mobile responsive"/>
+</p>
+
+<br><br>
+Here is what the responsive template website looks like on Desktop:
+<br><br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/20001191/89718455-8f7cab00-d973-11ea-92fe-9e9c6e9d16d2.png" alt="Desktop responsive"/>
+</p>
 
 
 ## 🧭 Usage Guide
