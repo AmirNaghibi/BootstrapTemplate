@@ -11,7 +11,7 @@ Here is what the responsive template website looks like on mobile and desktop:
   <img src="https://user-images.githubusercontent.com/20001191/89718551-4b3dda80-d974-11ea-9360-0d0ce4f90063.png" alt="mobile responsive"/>
 </p>
 
-<br><br><br>
+<br><br>
 
 ## 🧭 Usage Guide
 - Clone the project.
