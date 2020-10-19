@@ -1,7 +1,5 @@
 # ✅ Set up a Responsive Bootstrap website in minutes!
 
-### Click [HERE](https://amirnaghibi.github.io/BootstrapTemplate/) to see the live template website.
-
 Get started quickly with this simple and *responsive* Bootstrap template.
 
 Here is what the template website looks like:
